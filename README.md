@@ -1,7 +1,7 @@
 # learn-java-from-udemy
 
 ### first code in java:
-
+```java
 public class HelloConsoleProgram
 {
 	public static void main(String[] agrument)
@@ -9,6 +9,6 @@ public class HelloConsoleProgram
 		System.out.print(" Hello Console Program.. ");
 	}
 }
-
+```
 
 challanging for me but finally get started
