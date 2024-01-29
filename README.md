@@ -20,5 +20,5 @@ public class HelloConsoleProgram
 
 ## Authors
 
-- [@rbj_01 || Raj_kumar](https://www.github.com/octokatherine)
+- [@rbj_01 || Raj_kumar]([https://www.github.com/octokatherine](https://github.com/Shri-RajKumar)https://github.com/Shri-RajKumar)
 
