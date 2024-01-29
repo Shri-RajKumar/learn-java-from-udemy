@@ -2,9 +2,9 @@
 challanging for me but finally get started
 ## future:
 
-**Client:** HTML, CSS, Javascript, React
+**FRONT - END :** HTML, CSS, Javascript, React
 
-**Server:** Java
+**BACK - END:** Java
 
 
 ### first code in java:
