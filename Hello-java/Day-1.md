@@ -35,3 +35,8 @@ https://docs.google.com/document/d/13PLSDOQUUZAqRDhgHvNhKJUNZRvuQhe4ymqS2DAzoM8/
 ```
 https://docs.google.com/document/d/1Zh60MWoy3WfDQaUzcw7r0kJIPITbVl0pSdKDFufJ-Fs/edit
 ```
+
+### HW - Primitive Types
+```
+https://docs.google.com/document/d/1kqT7AkWTHAUXuJtA9pijWeqwQB7v-oVDjc3tsgajML4/edit
+```
