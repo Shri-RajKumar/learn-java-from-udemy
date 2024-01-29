@@ -40,3 +40,13 @@ https://docs.google.com/document/d/1Zh60MWoy3WfDQaUzcw7r0kJIPITbVl0pSdKDFufJ-Fs/
 ```
 https://docs.google.com/document/d/1kqT7AkWTHAUXuJtA9pijWeqwQB7v-oVDjc3tsgajML4/edit
 ```
+
+### HW - Number Systems
+```
+https://docs.google.com/document/d/1w12RqSvsfrGWTDd50QKI2RQWrEMmvE-6tSEMcS4tiOE/edit
+```
+
+
+
+
+
