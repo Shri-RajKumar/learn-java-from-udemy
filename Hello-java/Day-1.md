@@ -4,7 +4,7 @@
 https://www.linkedin.com/in/andrii-piatakha
 ```
 
-# Resource 
+# ******* Resources ********
 
 ## Resource day-1
 ### HW - Set Up Env Variables on Mac OS
